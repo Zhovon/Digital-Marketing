@@ -4,16 +4,17 @@
 **Prerequisites:**  Node.js
 
 
+
 1. Install dependencies:
    `npm install`
 2. Set the `YOUR_API_KEY` in [.env.local](.env.local) to your Your API key
 3. Run the app:
    `npm run dev`
 # ZHOVON Digital Marketing Agency Template
-<img width="1901" height="912" alt="digital marketing agency" src="https://github.com/user-attachments/assets/774a1851-6ec7-43f3-878d-268658ca0455" />)
+
 
 **Launch your professional agency website in minutes!**
-
+<img width="1899" height="906" alt="Screenshot 2025-10-29 040113" src="https://github.com/user-attachments/assets/66d6af1f-fda6-46c9-acc6-cf61bcedabbb" />
 This template features:
 - Modern, conversion-focused design
 - Mobile-responsive layout
