@@ -31,7 +31,7 @@ This template features:
 
 **Template includes all sections shown in preview** plus additional pages and components.
 
-🚀 **Get Started Today!** [https://zhovon.com/contract]
+🚀 **Get Started Today!** [(https://zhovon.com/contact)]
 
 #AgencyTemplate #DigitalMarketing #WebsiteTemplate #MarketingAgency
 
